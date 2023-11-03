@@ -1,7 +1,7 @@
 # Hey! 👋
 
 
-**I'm Marceau** ⚡️, from France 🇫🇷, 23 yo. I have been undergoing training to become a web developer since 24/10/2023. Passionate and motivated to create exceptional web experiences 🚀.
+**I'm Marceau** ⚡️, from France, 23 yo. I have been undergoing training to become a web developer since 24/10/2023. Passionate and motivated to create exceptional web experiences 🚀.
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)<br/>
 ↑ Language in the process of learning. ↑
