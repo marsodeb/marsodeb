@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Front-End Developer based in Reims, France 🌍</p>
+<p align="left">🚀 Front-end Developer | Turning ideas into pixels | Based in Reims, France | Let's build a web of possibilities together!</p>
 
 ###
 
@@ -36,7 +36,7 @@
 
 <div align="left">
   <a href="https://bio.link/marsodeb" target="_blank">
-    <img src="https://i.imgur.com/ssUotIe.png" width="40" height="40" alt="behance logo"  />
+    <img src="https://i.imgur.com/ssUotIe.png" height="40" alt="biolink logo"  />
   </a>
 </div>
 
