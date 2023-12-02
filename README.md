@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌟 What I'm About:<br>I'm all for user-friendly designs that make people smile. It's not just about pixels; it's about creating experiences.<br><br>🌍 Current Journey:<br>Exploring the ever-changing world of front-end, always eager to learn and add new tools to my belt.<br><br>🤝 Let's Connect:<br>Open to collaborations and ready to bring your ideas to life. Let's chat and see what magic we can create together!</p>
+<p align="left">🌟 What I'm About:<br>I'm all for user-friendly designs that make people smile. It's not just about pixels, it's about creating experiences.<br><br>🌍 Current Journey:<br>Exploring the ever-changing world of front-end, always eager to learn and add new tools to my belt.<br><br>🤝 Let's Connect:<br>Open to collaborations and ready to bring your ideas to life. Let's chat and see what magic we can create together!</p>
 
 ###
 
