@@ -1,10 +1,41 @@
-# Hey! 👋
+<h1 align="left">Hey, i'm Marceau Debiemme👋</h1>
 
+###
 
-**I'm Marceau** ⚡️, from France, 23 yo. Frontend Developer. Passionate and motivated to create exceptional web experiences 🚀
+<p align="left">Front-End Developer based in Reims, France 🌍</p>
 
-**⬇️Tech Stack⬇️**<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,sass,js)](https://skillicons.dev)<br/>
+###
 
+<h2 align="left">About me</h2>
 
+###
 
+<p align="left">🌟 What I'm About:<br>I'm all for user-friendly designs that make people smile. It's not just about pixels; it's about creating experiences.<br><br>🌍 Current Journey:<br>Exploring the ever-changing world of front-end, always eager to learn and add new tools to my belt.<br><br>🤝 Let's Connect:<br>Open to collaborations and ready to bring your ideas to life. Let's chat and see what magic we can create together!</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="left">music ❤️</h2>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31agx5u4ye2bbi5s5qtsmcp6tvru">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31agx5u4ye2bbi5s5qtsmcp6tvru&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
