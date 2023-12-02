@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌟 What I'm About:<br>I'm all for user-friendly designs that make people smile. It's not just about pixels, it's about creating experiences.<br><br>🌍 Current Journey:<br>Exploring the ever-changing world of front-end, always eager to learn and add new tools to my belt.<br><br>🤝 Let's Connect:<br>Open to collaborations and ready to bring your ideas to life. Let's chat and see what magic we can create together!</p>
+<p align="left">🌟 What I'm About:<br>I'm all for user-friendly designs that make people smile. It's not just about pixels; it's about creating experiences.<br><br>🌍 Current Journey:<br>Exploring the ever-changing world of front-end, always eager to learn and add new tools to my belt.<br><br>🤝 Let's Connect:<br>Open to collaborations and ready to bring your ideas to life. Let's chat and see what magic we can create together!</p>
 
 ###
 
@@ -30,12 +30,14 @@
 
 ###
 
-<h2 align="left">music ❤️</h2>
+<h2 align="left">Socials</h2>
 
 ###
 
 <div align="left">
-  <a href="https://open.spotify.com/user/31agx5u4ye2bbi5s5qtsmcp6tvru">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31agx5u4ye2bbi5s5qtsmcp6tvru&count=1&unique=false" alt="Spotify recently played"  />
+  <a href="https://bio.link/marsodeb" target="_blank">
+    <img src="https://i.imgur.com/ssUotIe.png" width="40" height="40" alt="behance logo"  />
   </a>
 </div>
+
+###
