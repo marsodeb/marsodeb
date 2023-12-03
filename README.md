@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-    <a href="https://bio.link/marsodeb" target="_blank" rel="noopener"></a>
+    <a href="https://bio.link/marsodeb" target="_blank" rel="noopener">
     <img src="https://i.imgur.com/ssUotIe.png" height="40" alt="biolink logo"  />
   </a>
 </div>
