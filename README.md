@@ -3,4 +3,4 @@
 
 - 🔭 I'm currently learning frontend at [OpenClassrooms](https://openclassrooms.com/fr/paths/900-integrateur-web)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React / Tailwind**
